@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7a139b0b28664e3195ae97f81b5527c, type: 3}
+  m_Name: test srouse
+  m_EditorClassIdentifier: Assembly-CSharp::RestorationSource
+  sourceName: Memory
+  sourceDescription: A moment of warmth and connection
+  saturationBonus: 0.1
+  bonusDuration: 30
+  canUseMultipleTimes: 0
+  minEmotionalHealthRequirement: 0.2
+  cooldownBetweenUses: 60
+  feedbackColor: {r: 1, g: 1, b: 1, a: 1}
+  feedbackSound: {fileID: 0}
